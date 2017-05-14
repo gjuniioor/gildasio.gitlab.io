@@ -1,7 +1,7 @@
 # Site settings
 title: "gjuniioor"
 bye_message: "Thx!"
-baseurl: "/"
+baseurl: "/BlogTest"
 url: "https://gjuniioor.github.io"
 disqus: gjuniioor
 
